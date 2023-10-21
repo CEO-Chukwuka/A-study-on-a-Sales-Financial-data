@@ -33,6 +33,6 @@ The data analyzed here relates to Sales data for several countries,segments and 
    ![](FST5.PNG)
 
 ## CONCLUSION AND RECOMMENDATION
-  TEfforts need to be made to increase overall sales of the company.
+  Efforts need to be made to increase overall sales of the company.
 
    
