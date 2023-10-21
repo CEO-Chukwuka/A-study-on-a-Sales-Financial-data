@@ -33,6 +33,6 @@ The data analyzed here relates to Sales data for several countries,segments and 
    ![](FST5.PNG)
 
 ## CONCLUSION AND RECOMMENDATION
-  The sales in Government and Midmarket Segment needs to increase. It is just 10% of the highest units (which was in United States Government Segment).
+  TEfforts need to be made to increase overall sales of the company.
 
    
